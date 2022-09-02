@@ -1,0 +1,8 @@
+{
+	"name": "sveltekit-graphql-hasura-docker-postgres",
+	"version": "1.0.0",
+	"devDependencies": {
+		"graphql-tag": "^2.12.5",
+		"subscriptions-transport-ws": "^0.9.19"
+	}
+}
